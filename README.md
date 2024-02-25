@@ -36,4 +36,6 @@ https://cornel.bopp-art.com/lightcase/
 ### Demo Images:
 http://unsplash.com
 
+<span style="color: green"> Some green text </span>
+
 

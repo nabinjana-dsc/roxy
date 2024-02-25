@@ -36,12 +36,13 @@ https://cornel.bopp-art.com/lightcase/
 ### Demo Images:
 http://unsplash.com
 
-diff
+```diff
 - text in red
 + text in green
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
+```
 
 
 
